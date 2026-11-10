@@ -1,3 +1,7 @@
 "Mi Repositorio Local" 
 "Actualizacion de repositorio"
+<<<<<<< HEAD
 "Error conflicto"
+=======
+"Conflicto"
+>>>>>>> 38f8c25c3b17e84220d30401ec7ef85dd88a6c05
